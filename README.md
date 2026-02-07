@@ -6,7 +6,7 @@ InstructAI is a fully offline, AI-powered learning application built using **Flu
 
 ## 🚀 Demo, APK & Source Code
 
-- 📦 **APK Download**: [Download APK](https://github.com/prashantpatil0/InstructAI/releases/download/v1.0.0/InstructAI.apk)
+- 📦 **APK Download**: [Download APK](https://github.com/prashantpatil0/InstructAIApp/releases/download/v1.0.0/InstructAI.apk)
 - 🧑‍💻 **Source Code**: [GitHub Repository](https://github.com/prashantpatil0/InstructAI)
 
 > 🛠️ **To download the full source code**, go to the uploaded `.zip` file. **right-click on the `.zip` → click "View raw" → then save/download** to your system.
